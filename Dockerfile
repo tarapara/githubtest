@@ -5,5 +5,4 @@
 FROM busybox:latest
 # Author: Alpesh Tarapara
 MAINTAINER Alpesh Tarapara <Alpesh.Tarapara@gmail.com>
-CMD echo Hello World
-CMD echo Test 123!!
+CMD echo Test 1234!!
